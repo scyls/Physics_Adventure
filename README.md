@@ -1,8 +1,7 @@
 # Foundry Open Photon PUN example
 
 ## MIT Reality Hack
-If you're at the MIT Reality Hack, we're here to help mentor and guide you with your project. Find us in person, on Discord - channel is #Foundry, or text Daniel at 415-690-9681
-
+If you're at the MIT Reality Hack, we're here to help mentor and guide you with your project. Find us in person, on Discord - channel is #Foundry.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Then you can run the actual app by deploying to an APK for Oculus or an exe for Windows PCVR.
